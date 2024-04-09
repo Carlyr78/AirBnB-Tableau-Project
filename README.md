@@ -5,6 +5,7 @@ Introduction
 This project aims to assist individuals interested in investing in Airbnb rental properties by providing insights derived from Airbnb data for the year 2016. By analyzing key metrics such as average price per bedroom, yearly revenue, and average price per total bedrooms, potential investors can make informed decisions about which properties may offer the best return on investment.
 
 Data Source- https://www.kaggle.com/datasets/alexanderfreberg/airbnb-listings-2016-dataset?resource=download
+
 The data used for this analysis is sourced from Airbnb and includes information on property listings, prices, and revenue generated from rentals during the year 2016.
 
 Dashboard Overview
