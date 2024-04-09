@@ -1,3 +1,7 @@
+Tableau Public Link:
+https://public.tableau.com/app/profile/carly.ryan/viz/AirBnBProject_17126858838710/Dashboard1?publish=yes
+
+
 Airbnb Rental Property Investment Analysis
 Introduction
 This project aims to assist individuals interested in investing in Airbnb rental properties by providing insights derived from Airbnb data for the year 2016. By analyzing key metrics such as average price per bedroom, yearly revenue, average price per total bedrooms, and price per zipcode, potential investors can make informed decisions about which properties may offer the best return on investment.
